@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<favsongs>
+  <song>
+    <name>Safe</name>
+    <artist>Daya</artist>
+    <artist>Shallou</artist>
+    <album>Here</album>
+  </song>
+  <song>
+    <name>Lights Out</name>
+    <artist>Breaking Benjamin</artist>
+    <album>Signs</album>
+  </song>
+  <song>
+    <name>Bayou</name>
+    <artist>Mountains of the Moon</artist>
+    <album>Bayou</album>
+  </song>
+  <song>
+    <name>Need Your Love</name>
+    <artist>Gryffin</artist>
+    <artist>Seven Lions</artist>
+    <artist>Noah Kahan</artist>
+    <album>Gravity</album>
+  </song>
+  <song>
+    <name>Water</name>
+    <artist>BLYNE</artist>
+    <artist>Madness</artist>
+    <album>Indigo</album>
+  </song>
+</favsongs>
